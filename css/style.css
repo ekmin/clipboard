@@ -586,6 +586,11 @@ h5 {
   margin-bottom: 4rem;
 }
 
+.my-20 {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
 .mb-40 {
   margin-bottom: 10rem;
 }
@@ -596,6 +601,10 @@ h5 {
 
 .mb-10 {
   margin-bottom: 2.5rem;
+}
+
+.mb-24 {
+  margin-bottom: 6rem;
 }
 
 .flex {
@@ -681,6 +690,10 @@ h5 {
 
 .font-bold {
   font-weight: 700;
+}
+
+.leading-9 {
+  line-height: 2.25rem;
 }
 
 .text-darkGrayishBlue {
